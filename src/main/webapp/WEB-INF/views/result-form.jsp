@@ -9,8 +9,8 @@
 </head>
 <body>
     <h1>Result</h1>
-    <p>name : ${nome}</p>
-    <p>age :${idade} </p>
+    <p>name : ${pessoa.nome}</p>
+    <p>age :${pessoa.idade} </p>
 
 </body>
 </html>

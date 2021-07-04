@@ -10,5 +10,7 @@
 <body>
     <h1>home</h1>
     <p>hello</p>
+    <p>Go to <a href="formulario.html">form</a></p>
+
 </body>
 </html>
